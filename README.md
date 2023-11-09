@@ -1,0 +1,1 @@
+# Codewars_js_6-kuy
